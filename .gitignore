@@ -1,0 +1,55 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+.pytest_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# uv
+.uv/
+
+# Data (do not commit large data files)
+data/raw/
+data/interim/
+data/processed/
+
+# Results (will be regenerated)
+results/*
+!results/.gitkeep
+
+# Local training logs
+logs/
+
+# Jupyter
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/*
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Claude Code local
+.claude/
+
+# Environment files
+.env
+.env.local
+.venv/
+venv/
+__pycache__/
+*.pyc
