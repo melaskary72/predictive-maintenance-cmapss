@@ -1,6 +1,5 @@
 # Predictive Maintenance on NASA C-MAPSS Turbofan Engines
 
-CPSC 393 Machine Learning Final Project, Spring 2026
 Chapman University
 Author: Mohamed El Askary
 
